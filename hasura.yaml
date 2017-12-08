@@ -1,5 +1,7 @@
-description: A basic hasura project serving static files
-keywords: getting-started, nginx, static-files
-media: {}
-name: hello-nginx
+description: A Sample A-Frame VR project built over Hasura platform with Mozilla's A-Frame WebVR framework.
+keywords: WebVR, A-Frame, VR
+media:
+  images:
+  - https://raw.githubusercontent.com/anirudhmurali/A-Frame-VR/master/webvr.png
+name: A-Frame-VR
 platformVersion: v0.15.3
