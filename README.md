@@ -10,8 +10,8 @@ Your app will be running at https://www.cluster-name.hasura-app.io
 
 ## Resources:
 
-[https://aframe.io/examples/](https://aframe.io/examples/)
-[A-Frame Docs](https://aframe.io/docs/0.7.0/introduction/)
-[github/a-frame](https://github.com/aframevr/aframe/)
+* [https://aframe.io/examples/](https://aframe.io/examples/)
+* [A-Frame Docs](https://aframe.io/docs/0.7.0/introduction/)
+* [github/a-frame](https://github.com/aframevr/aframe/)
 
 Play with the other resources to build cool A-Frame VR projects. Have fun!
